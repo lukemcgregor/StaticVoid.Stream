@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>StaticVoid Stream</title>
+    <authors>Luke McGregor</authors>
+    <owners>Luke McGregor</owners>
+    <licenseUrl>http://www.opensource.org/licenses/lgpl-3.0.html</licenseUrl>
+    <description>
+      Bits for dealing with streams
+    </description>
+    <copyright>Luke McGregor</copyright>
+    <language>en-NZ</language>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.pdb" target="lib\net40\" />
+  </files>
+</package>
